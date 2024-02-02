@@ -1,5 +1,5 @@
-# aula04 <h1>
-## usando o markdown <h2>
+# Aula 04 <h1>
+## Usando o markdown <h2>
 
 1. Primeiramente fizemos login no GitHub
 2. Baixamos o GitHub desktop
