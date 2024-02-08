@@ -18,6 +18,15 @@
 10. Fizemos alteração no README 
 11. Novamente ultilizamos commit e push
 12. A professora mostrou a função do pull que permitir que você proponha alterações nos projetos, forneça feedback e revisões e mescle alterações em projetos.
+13. Na aula 5, a primeira coisa que fizemos foi trocar o folder do DW para o DW-3.
+14. Criamos um branch com o nome new_branch e nele criamos o teste.txt.
+15. Demos commit nesse novo arquivo
+16. E trocamos do branch para o main e criamos um novo arquivo chamado teste2.txt
+17. Fizemos commit no teste2 
+18. Em branch selecionamos a opção Merge into a current branch
+19. Selecionamos new_branch e criamos
+20. Após a Merge aprendemos a deletar um branch
+* Para excluir uma branch, você seleciona Current branch e com o botão direito no new_branch selecionamos delete.
 
 
 ### Para acessar meu GitHub, entre no link: <h3>
