@@ -1,4 +1,4 @@
-# Aula 04 <h1>
+# Aula <h1>
 ## Usando o markdown <h2>
 
 1. Primeiramente fizemos login no GitHub.
@@ -18,8 +18,6 @@
 10. Fizemos alteração no README. 
 11. Novamente ultilizamos commit e push.
 12. A professora mostrou a função do pull que permitir que você proponha alterações nos projetos, forneça feedback e revisões e mescle alterações em projetos.
-<<<<<<< Updated upstream
-=======
 13. Na aula 5, a primeira coisa que fizemos foi trocar o folder do DW para o DW-3.
 14. Criamos um branch com o nome new_branch e nele criamos o teste.txt.
 15. Demos commit nesse novo arquivo.
@@ -29,7 +27,7 @@
 19. Selecionamos new_branch e criamos.
 20. Após a Merge aprendemos a deletar um branch:
 * Para excluir uma branch, você seleciona Current branch e com o botão direito no new_branch selecionamos delete.
->>>>>>> Stashed changes
+
 
 
 ### Para acessar meu GitHub, entre no link: <h3>
